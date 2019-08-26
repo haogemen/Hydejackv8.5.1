@@ -2,8 +2,8 @@
 # Must be the same as `author` in `_config.yml`.
 # You can change `author1` to your shortname.
 author1:
-  name:              果冻
-  email:             volcanowill@gmail.com
+  name:              好哥们
+  email:             xxxxxx@gmail.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
@@ -21,8 +21,8 @@ author1:
   # Social media icons in sidebar.
   # Comment/uncommet to show/hide. Rearrange to change the order in which they appear.
   social:
-    rss:               https://lvii.github.io/atom.xml
-    github:            lvii/lvii.github.io
+    rss:               https://haogemen.github.io/atom.xml
+    github:            haogemen/haogemen.github.io
     # twitter:         <username>
     # email:           <mail@domain.tld>
     # facebook:        <username>
