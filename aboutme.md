@@ -1,6 +1,6 @@
 ---
 layout: about
-title: 关于我
+title: 关于
 description: >
 大声告诉我：
 hide_description: false
