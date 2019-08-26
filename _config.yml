@@ -4,7 +4,7 @@
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-url:                   https://haogemen.github.io
+url:                   https://www.haoge.men
 
 # IMPORTANT: Set The "base URL" of your site.
 # When your site sits in a subdirectory, set to /<name of directory>
@@ -24,7 +24,7 @@ title:                 好哥们
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  blog about linux system administration and opensource
+  haogemen blog 
 
 # A shorter description for the sidebar.
 tagline:               >
@@ -54,7 +54,7 @@ author:
 #     url:               /cookies-policy/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2019. All rights reserved.
+copyright:             ©2019 haoge.men
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
@@ -117,11 +117,11 @@ defaults:
 
 # Set your Google Analytics id to receive `pageview` events.
 # To remove Google Anaylics from your page, remove the line below.
-google_analytics:      UA-125236126-1
+google_analytics:      UA-1234567890-9
 
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.
-disqus:                lvii
+disqus:                haogemen
 
 # Setting a tinyletter username will enable the newsletter subscription box.
 # tinyletter:            <tinyletter_username>
